@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "    Fira Sans Font Installer   "
   ui_print "*******************************"
 }
 
