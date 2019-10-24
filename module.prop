@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=fira-sans-font
+name=Fira Sans Font
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=squaresmile
+description=Replace Roboto system font with Fira Sans
