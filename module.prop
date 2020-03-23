@@ -1,6 +1,6 @@
 id=fira-sans-font
 name=Fira Sans Font
-version=v2
-versionCode=2
+version=v3
+versionCode=3
 author=squaresmile
-description=Replace Roboto system font with Fira Sans
+description=Replace Roboto system font with Fira Sans and Charter
