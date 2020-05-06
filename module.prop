@@ -1,6 +1,6 @@
 id=fira-sans-font
-name=Fira Sans Font
-version=v3
-versionCode=3
+name=squaresmile Android's custom font
+version=v4
+versionCode=4
 author=squaresmile
-description=Replace Roboto system font with Fira Sans and Charter
+description=Replace Roboto system font with Fira Sans, Charter and Blobmoji
